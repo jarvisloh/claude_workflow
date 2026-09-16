@@ -1,0 +1,26 @@
+[build-system]
+requires = []
+build-backend = "_build_backend"
+backend-path = ["."]
+
+[project]
+name = "claude-workflow"
+version = "0.1.0"
+description = "Project-scoped Claude Code workflow lifecycle tools"
+readme = "README.md"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+authors = [{name = "Claude Workflow contributors"}]
+dependencies = []
+
+[project.scripts]
+claude-workflow = "claude_workflow.cli:main"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+include = ["claude_workflow*"]
+
+[tool.setuptools.package-data]
+claude_workflow = ["plugin/**/*", "plugin/**/.*"]

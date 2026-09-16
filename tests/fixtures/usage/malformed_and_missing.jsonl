@@ -1,0 +1,2 @@
+not-json
+{"type":"assistant","uuid":"empty-usage","timestamp":"2026-09-16T09:01:00Z","message":{"id":"msg-empty","role":"assistant","content":[{"type":"text","text":"no usage"}]}}

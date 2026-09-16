@@ -1,0 +1,2 @@
+{"type":"result","session_id":"main-session","timestamp":"2026-09-16T09:00:00Z","usage":{"input_tokens":2,"output_tokens":5}}
+{"type":"result","session_id":"worker-session","timestamp":"2026-09-16T09:01:00Z","isSidechain":true,"agent_id":"cw-executor","usage":{"input_tokens":3,"output_tokens":8}}

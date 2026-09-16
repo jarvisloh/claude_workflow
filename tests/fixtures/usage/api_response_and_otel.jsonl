@@ -1,0 +1,2 @@
+{"event.name":"api_response_body","event.timestamp":"2026-09-16T09:00:00Z","request_id":"req-1","query_source_safe":"agent.custom","body":"{\"id\":\"body-message\",\"model\":\"claude-sonnet-4-6\",\"usage\":{\"input_tokens\":13,\"output_tokens\":7}}"}
+{"type":"assistant","uuid":"entry-1","timestamp":"2026-09-16T09:00:01Z","query_source":"agent.custom","message":{"uuid":"body-message","model":"claude-sonnet-4-6","usage":{"input_tokens":13,"output_tokens":7}}}

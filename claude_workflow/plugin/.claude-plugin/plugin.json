@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "claude-workflow",
+  "version": "0.1.0",
+  "description": "Explicitly routed Claude Code project workflow roles and observational usage reporting.",
+  "author": {
+    "name": "Claude Workflow contributors"
+  },
+  "skills": ["./skills"]
+}

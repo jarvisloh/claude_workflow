@@ -1,0 +1,4 @@
+{"type":"assistant","uuid":"before","timestamp":"2026-09-16T09:59:59Z","message":{"id":"msg-before","usage":{"output_tokens":2}}}
+{"type":"assistant","uuid":"at-start","timestamp":"2026-09-16T10:00:00Z","message":{"id":"msg-at-start","usage":{"output_tokens":2}}}
+{"type":"assistant","uuid":"at-end","timestamp":"2026-09-16T11:00:00Z","message":{"id":"msg-at-end","usage":{"output_tokens":3}}}
+{"type":"assistant","uuid":"after","timestamp":"2026-09-16T11:00:01Z","message":{"id":"msg-after","usage":{"output_tokens":4}}}
